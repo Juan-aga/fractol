@@ -1,0 +1,6 @@
+fractol
+*.o
+libft.a
+libmlx42.a
+mlx_frag_shader.c
+mlx_vert_shader.c
